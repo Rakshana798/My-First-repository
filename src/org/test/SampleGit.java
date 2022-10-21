@@ -7,5 +7,9 @@ public class SampleGit {
 		System.out.println("Hellow Git..!");
 		int age = 25;
 		System.out.println(age);
+		double weight = 76.78;
+		System.out.println(weight);
+
+		
 	}
 }
